@@ -5,3 +5,5 @@
  
  ![Screenshot 2024-03-18 125622](https://github.com/BeenaSamuel/News-URL-Summarizer/assets/121711232/bf2cffc2-a293-4800-be8e-a59ed3eb6953)
 
+ 
+
